@@ -1,1 +1,1 @@
-home
+[对接 Stripe 支付接口](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/对接-Stripe-支付接口)
