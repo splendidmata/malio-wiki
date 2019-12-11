@@ -5,6 +5,7 @@
 
 # 功能说明
 [对接 Stripe 支付接口](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/对接-Stripe-支付接口)
+[Malio 聚合支付接口](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/Malio-聚合支付接口)
 
 # 其他
 [邮箱黑名单参考列表](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/邮箱黑名单参考列表)
