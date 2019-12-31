@@ -8,6 +8,9 @@
 
 [Malio 聚合支付接口](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/Malio-聚合支付接口)
 
+# malio.js
+[malio.js 更新记录](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/malio.js-更新记录)
+
 # 其他
 [邮箱黑名单参考列表](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/邮箱黑名单参考列表)
 
