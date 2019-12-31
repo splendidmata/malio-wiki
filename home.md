@@ -10,3 +10,5 @@
 
 # 其他
 [邮箱黑名单参考列表](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/邮箱黑名单参考列表)
+
+[更新i18n需要做的事情](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/更新i18n需要做的事情)
