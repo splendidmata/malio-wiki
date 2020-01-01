@@ -3,7 +3,7 @@
 
 [授权说明](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/授权说明)
 
-[常见问题说明](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/常见问题说明)
+[常见问题解答](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/常见问题解答)
 
 # 功能说明
 
